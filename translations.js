@@ -86,7 +86,7 @@ const translations = {
     archBackend: "Backend",
     archBackendDesc: "A high-performance REST API powered by Python and FastAPI, deployed via Docker.",
     archDB: "Database",
-    archDBDesc: "Secure data management utilizing PostgreSQL and SQLAlchemy, hosted on Microsoft Azure.",
+    archDBDesc: "Secure data management utilizing PostgreSQL, hosted on Microsoft Azure.",
     archSync: "Smart Engine",
     archSyncDesc: "Advanced crowdsourced polling and intelligent push notifications via Expo.",
 
@@ -110,7 +110,7 @@ const translations = {
     githubBtn: "GitHub",
     creatorsTitle: "מילותינו",
     creatorsDesc: "UniTask נולדה מתוך הצורך האישי שלנו לעשות סדר בבלאגן של התואר. פיתחנו פלטפורמה חזקה שמסתנכרנת בצורה שקופה מול המודל כדי להשאיר אתכם מעודכנים בכל רגע.",
-    creatorsSign: "הראל ויותם -",
+    creatorsSign: "- הראל ויותם",
     whoWeAre: "מי אנחנו?",
     integrationTitle: "מוסדות נתמכים",
     bguName: "אוניברסיטת בן-גוריון",
